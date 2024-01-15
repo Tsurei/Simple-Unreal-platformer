@@ -5836,3 +5836,178 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.01.15-05.18.53:550][854]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.15-05.18.53:551][854]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
 [2024.01.15-05.18.53:551][854]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Hour_of_Code/Sequences/S_movingPlatforms.S_movingPlatforms
+[2024.01.15-05.19.13:150][439]LogViewport: Scene viewport resized to 1437x844, mode Windowed.
+[2024.01.15-05.20.11:030][848]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.20.11:038][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.20.11:038][848]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:20:11 p.m.)
+[2024.01.15-05.20.11:060][848]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.20.11:128][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067958s)
+[2024.01.15-05.20.11:128][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.068009s)
+[2024.01.15-05.20.11:142][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.15-05.20.11:144][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.20.11:144][848]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.20.11:144][848]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.20.11:166][848]LogPlayLevel: PIE: World Init took: (0.022813s)
+[2024.01.15-05.20.11:166][848]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.01.15-05.20.11:166][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.20.11:166][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.20.11:166][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.20.11:166][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.20.11:166][848]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.20.11:166][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.20.11:166][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.20.11:167][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.20.11:167][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.20.11:167][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.20.11:167][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.20.11:169][848]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.20.11:201][848]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.20.11:201][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.20.11:201][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.20.11:201][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.20.11:201][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.01.15-05.20.11:201][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.01.15-05.20.11:203][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.01.15-05.20.11:203][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.01.15-05.20.11:203][848]LogInit: FAudioDevice initialized with ID 40.
+[2024.01.15-05.20.11:203][848]LogAudio: Display: Audio Device (ID: 40) registered with world 'Level_HOC_world'.
+[2024.01.15-05.20.11:203][848]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.01.15-05.20.11:207][848]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.20.11:254][848]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.20.11
+[2024.01.15-05.20.12:834][848]LogWorld: Bringing up level for play took: 1.625946
+[2024.01.15-05.20.12:835][848]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.01.15-05.20.12:840][848]PIE: Server logged in
+[2024.01.15-05.20.12:841][848]PIE: Play in editor total start time 1.804 seconds.
+[2024.01.15-05.20.22:081][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.20.22:081][696]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.20.22:083][696]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.20.22:088][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.20.22:092][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.20.22:098][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.20.22:118][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.20.22:118][696]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.01.15-05.20.22:118][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.01.15-05.20.22:119][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.01.15-05.20.22:145][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.15-05.20.22:191][697]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.01.15-05.20.33:311][611]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.20.33:311][611]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.20.33:314][611]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_20
+[2024.01.15-05.20.33:316][611]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_20
+[2024.01.15-05.20.34:852][704]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.20.34:852][704]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.20.34:856][704]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_21
+[2024.01.15-05.20.34:859][704]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_21
+[2024.01.15-05.20.39:574][ 84]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.01.15-05.20.39:581][ 84]LogViewport: Scene viewport resized to 1874x844, mode Windowed.
+[2024.01.15-05.20.44:004][429]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.20.44:004][429]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.20.44:007][429]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_18
+[2024.01.15-05.20.44:010][429]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_18
+[2024.01.15-05.20.44:728][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.20.44:728][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.20.44:733][459]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_19
+[2024.01.15-05.20.44:736][459]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_19
+[2024.01.15-05.20.47:668][667]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.20.47:668][667]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.20.47:672][667]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_66
+[2024.01.15-05.20.47:675][667]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_66
+[2024.01.15-05.20.48:606][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.20.48:607][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.20.48:610][721]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_67
+[2024.01.15-05.20.48:614][721]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_67
+[2024.01.15-05.20.56:548][317]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.20.56:548][317]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.20.56:550][317]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_68
+[2024.01.15-05.20.56:553][317]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_68
+[2024.01.15-05.20.57:251][342]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.20.57:251][342]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.20.57:255][342]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_69
+[2024.01.15-05.20.57:259][342]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_69
+[2024.01.15-05.21.01:790][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.21.01:790][659]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.21.01:793][659]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_70
+[2024.01.15-05.21.01:796][659]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_70
+[2024.01.15-05.21.02:503][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.21.02:503][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.21.02:507][692]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_71
+[2024.01.15-05.21.02:510][692]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_71
+[2024.01.15-05.21.29:591][971]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.21.29:591][971]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.21.29:594][971]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_22
+[2024.01.15-05.21.29:597][971]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_22
+[2024.01.15-05.21.30:798][ 40]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.21.30:798][ 40]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.21.30:802][ 40]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_23
+[2024.01.15-05.21.30:805][ 40]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_23
+[2024.01.15-05.21.34:538][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.21.34:539][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.21.34:541][305]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_20
+[2024.01.15-05.21.34:544][305]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_20
+[2024.01.15-05.21.35:272][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.21.35:272][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.21.35:276][340]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_21
+[2024.01.15-05.21.35:280][340]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_21
+[2024.01.15-05.21.44:212][ 76]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.21.44:220][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.21.44:220][ 76]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:21:44 p.m.)
+[2024.01.15-05.21.44:220][ 76]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.21.44:291][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070134s)
+[2024.01.15-05.21.44:291][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.070167s)
+[2024.01.15-05.21.44:323][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.15-05.21.44:325][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.21.44:325][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.21.44:325][ 76]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.21.44:347][ 76]LogPlayLevel: PIE: World Init took: (0.022618s)
+[2024.01.15-05.21.44:347][ 76]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.01.15-05.21.44:347][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.21.44:347][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.21.44:347][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.21.44:347][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.21.44:347][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.21.44:347][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.21.44:347][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.21.44:347][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.21.44:348][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.21.44:348][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.21.44:348][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.21.44:351][ 76]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.21.44:383][ 76]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.21.44:383][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.21.44:383][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.21.44:383][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.21.44:383][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.01.15-05.21.44:383][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.01.15-05.21.44:385][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.01.15-05.21.44:385][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.01.15-05.21.44:385][ 76]LogInit: FAudioDevice initialized with ID 41.
+[2024.01.15-05.21.44:385][ 76]LogAudio: Display: Audio Device (ID: 41) registered with world 'Level_HOC_world'.
+[2024.01.15-05.21.44:385][ 76]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.01.15-05.21.44:388][ 76]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.21.44:436][ 76]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.21.44
+[2024.01.15-05.21.46:013][ 76]LogWorld: Bringing up level for play took: 1.624396
+[2024.01.15-05.21.46:015][ 76]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2024.01.15-05.21.46:022][ 76]PIE: Server logged in
+[2024.01.15-05.21.46:023][ 76]PIE: Play in editor total start time 1.804 seconds.
+[2024.01.15-05.24.00:172][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.24.00:172][951]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.24.00:174][951]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.24.00:178][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.24.00:182][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.24.00:189][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.24.00:204][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.24.00:208][951]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.01.15-05.24.00:208][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.01.15-05.24.00:210][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.01.15-05.24.00:228][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.15-05.24.00:291][952]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2024.01.15-05.24.03:714][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.15-05.24.03:719][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-05.24.03:790][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.15-05.24.04:001][220]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/Level_HOC_world
+[2024.01.15-05.24.04:002][220]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/Level_HOC_world87B462164459EE53646CAE855AD13736.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2024.01.15-05.24.04:011][220]LogFileHelpers: All files are already saved.
+[2024.01.15-05.24.04:011][220]LogFileHelpers: Saving map 'Level_HOC_world' took 0.248
+[2024.01.15-05.24.04:019][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 300 ms (total: 4.08 sec)
+[2024.01.15-05.24.04:025][220]AssetCheck: New page: Asset Save: Level_HOC_world
+[2024.01.15-05.24.04:026][220]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
