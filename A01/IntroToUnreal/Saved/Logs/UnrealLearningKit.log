@@ -5446,3 +5446,393 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.01.15-05.12.15:093][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 3.48 sec)
 [2024.01.15-05.12.15:099][ 34]AssetCheck: New page: Asset Save: Level_HOC_world
 [2024.01.15-05.12.15:099][ 34]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2024.01.15-05.12.34:086][ 72]LogViewport: Scene viewport resized to 1874x844, mode Windowed.
+[2024.01.15-05.12.39:593][509]Cmd: TRANSACTION UNDO
+[2024.01.15-05.12.39:593][509]LogEditorTransaction: Undo Move Elements
+[2024.01.15-05.12.42:645][705]Cmd: TRANSACTION UNDO
+[2024.01.15-05.12.42:645][705]LogEditorTransaction: Undo Move Elements
+[2024.01.15-05.13.05:916][502]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.13.05:923][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.13.05:923][502]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:13:05 p.m.)
+[2024.01.15-05.13.05:950][502]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.13.06:016][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066567s)
+[2024.01.15-05.13.06:016][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.066609s)
+[2024.01.15-05.13.06:030][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.15-05.13.06:032][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.13.06:033][502]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.13.06:033][502]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.13.06:055][502]LogPlayLevel: PIE: World Init took: (0.022327s)
+[2024.01.15-05.13.06:055][502]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.01.15-05.13.06:055][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.13.06:055][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.13.06:055][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.13.06:055][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.13.06:055][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.13.06:055][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.13.06:055][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.13.06:055][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.13.06:055][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.13.06:055][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.13.06:055][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.13.06:057][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.13.06:090][502]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.13.06:090][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.13.06:090][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.13.06:090][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.13.06:091][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.01.15-05.13.06:091][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.01.15-05.13.06:092][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.01.15-05.13.06:092][502]LogInit: FAudioDevice initialized with ID 34.
+[2024.01.15-05.13.06:092][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.01.15-05.13.06:092][502]LogAudio: Display: Audio Device (ID: 34) registered with world 'Level_HOC_world'.
+[2024.01.15-05.13.06:092][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.01.15-05.13.06:096][502]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.13.06:143][502]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.13.06
+[2024.01.15-05.13.07:718][502]LogWorld: Bringing up level for play took: 1.620584
+[2024.01.15-05.13.07:719][502]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.01.15-05.13.07:724][502]PIE: Server logged in
+[2024.01.15-05.13.07:724][502]PIE: Play in editor total start time 1.803 seconds.
+[2024.01.15-05.13.25:911][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.13.25:911][410]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.13.25:912][410]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.13.25:917][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.13.25:920][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.13.25:927][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.13.25:942][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.13.25:942][410]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.01.15-05.13.25:942][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.01.15-05.13.25:943][410]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.01.15-05.13.25:966][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.15-05.13.26:043][411]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.01.15-05.13.28:507][598]LogViewport: Scene viewport resized to 1437x844, mode Windowed.
+[2024.01.15-05.14.01:729][635]Cmd: TRANSACTION UNDO
+[2024.01.15-05.14.01:729][635]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.14.04:608][826]Cmd: TRANSACTION UNDO
+[2024.01.15-05.14.04:608][826]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.14.04:949][849]Cmd: TRANSACTION UNDO
+[2024.01.15-05.14.04:949][849]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.14.22:066][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.14.22:074][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.14.22:074][547]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:14:22 p.m.)
+[2024.01.15-05.14.22:074][547]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.14.22:141][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066678s)
+[2024.01.15-05.14.22:141][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.066717s)
+[2024.01.15-05.14.22:155][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.15-05.14.22:157][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.14.22:157][547]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.14.22:157][547]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.14.22:178][547]LogPlayLevel: PIE: World Init took: (0.022187s)
+[2024.01.15-05.14.22:178][547]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.01.15-05.14.22:178][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.14.22:178][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.14.22:178][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.14.22:178][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.14.22:178][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.14.22:178][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.14.22:178][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.14.22:178][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.14.22:179][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.14.22:179][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.14.22:179][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.14.22:182][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.14.22:213][547]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.14.22:214][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.14.22:214][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.14.22:214][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.14.22:214][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.01.15-05.14.22:214][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.01.15-05.14.22:216][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.01.15-05.14.22:216][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.01.15-05.14.22:216][547]LogInit: FAudioDevice initialized with ID 35.
+[2024.01.15-05.14.22:216][547]LogAudio: Display: Audio Device (ID: 35) registered with world 'Level_HOC_world'.
+[2024.01.15-05.14.22:216][547]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.01.15-05.14.22:220][547]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.14.22:266][547]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.14.22
+[2024.01.15-05.14.23:833][547]LogWorld: Bringing up level for play took: 1.613000
+[2024.01.15-05.14.23:835][547]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.01.15-05.14.23:840][547]PIE: Server logged in
+[2024.01.15-05.14.23:841][547]PIE: Play in editor total start time 1.767 seconds.
+[2024.01.15-05.14.28:341][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.14.28:341][953]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.14.28:342][953]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.14.28:347][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.14.28:350][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.14.28:357][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.14.28:374][953]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-05.14.28:374][953]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.01.15-05.14.28:374][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.01.15-05.14.28:376][953]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.01.15-05.14.28:385][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.14.28:394][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.15-05.14.28:436][954]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.01.15-05.14.40:708][161]LogViewport: Scene viewport resized to 1874x844, mode Windowed.
+[2024.01.15-05.15.44:529][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.15.44:529][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.15.44:531][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_60
+[2024.01.15-05.15.44:534][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_60
+[2024.01.15-05.15.45:730][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.15.45:730][103]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.15.45:734][103]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_61
+[2024.01.15-05.15.45:737][103]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_61
+[2024.01.15-05.15.49:746][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.15.49:746][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.15.49:749][416]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_62
+[2024.01.15-05.15.49:751][416]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_62
+[2024.01.15-05.15.50:352][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.15.50:352][448]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.15.50:356][448]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_63
+[2024.01.15-05.15.50:359][448]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_63
+[2024.01.15-05.15.54:934][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.15.54:934][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.15.54:936][806]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_18
+[2024.01.15-05.15.54:939][806]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_18
+[2024.01.15-05.15.56:579][889]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.15.56:579][889]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.15.56:583][889]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_19
+[2024.01.15-05.15.56:586][889]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_19
+[2024.01.15-05.16.21:587][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.16.21:595][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.16.21:595][ 85]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:16:21 p.m.)
+[2024.01.15-05.16.21:620][ 85]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.16.21:688][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067875s)
+[2024.01.15-05.16.21:688][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.067916s)
+[2024.01.15-05.16.21:709][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.15-05.16.21:711][ 85]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.16.21:711][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.16.21:712][ 85]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.16.21:733][ 85]LogPlayLevel: PIE: World Init took: (0.022654s)
+[2024.01.15-05.16.21:733][ 85]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.01.15-05.16.21:733][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.16.21:733][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.16.21:733][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.16.21:733][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.16.21:733][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.16.21:733][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.16.21:733][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.16.21:733][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.16.21:734][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.16.21:734][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.16.21:734][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.16.21:737][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.16.21:770][ 85]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.16.21:770][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.16.21:770][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.16.21:770][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.16.21:771][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.01.15-05.16.21:771][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.01.15-05.16.21:772][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.01.15-05.16.21:772][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.01.15-05.16.21:772][ 85]LogInit: FAudioDevice initialized with ID 36.
+[2024.01.15-05.16.21:772][ 85]LogAudio: Display: Audio Device (ID: 36) registered with world 'Level_HOC_world'.
+[2024.01.15-05.16.21:772][ 85]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.01.15-05.16.21:776][ 85]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.16.21:824][ 85]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.16.21
+[2024.01.15-05.16.23:397][ 85]LogWorld: Bringing up level for play took: 1.620578
+[2024.01.15-05.16.23:400][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.01.15-05.16.23:405][ 85]PIE: Server logged in
+[2024.01.15-05.16.23:405][ 85]PIE: Play in editor total start time 1.811 seconds.
+[2024.01.15-05.16.27:091][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.16.27:091][436]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.16.27:093][436]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.16.27:097][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.16.27:101][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.16.27:108][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.16.27:125][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-05.16.27:125][436]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.01.15-05.16.27:125][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.01.15-05.16.27:126][436]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.01.15-05.16.27:143][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.16.27:152][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.15-05.16.27:216][437]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.01.15-05.16.54:563][577]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.16.54:563][577]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.16.54:565][577]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_64
+[2024.01.15-05.16.54:568][577]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_64
+[2024.01.15-05.16.55:152][605]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.16.55:152][605]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.16.55:156][605]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_65
+[2024.01.15-05.16.55:159][605]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_65
+[2024.01.15-05.17.13:435][101]Cmd: TRANSACTION UNDO
+[2024.01.15-05.17.13:435][101]LogEditorTransaction: Undo Set Rotation
+[2024.01.15-05.17.25:015][965]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.17.25:022][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.17.25:022][965]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:17:25 p.m.)
+[2024.01.15-05.17.25:022][965]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.17.25:090][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068382s)
+[2024.01.15-05.17.25:090][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.068421s)
+[2024.01.15-05.17.25:111][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.15-05.17.25:113][965]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.17.25:113][965]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.17.25:113][965]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.17.25:136][965]LogPlayLevel: PIE: World Init took: (0.022735s)
+[2024.01.15-05.17.25:136][965]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.01.15-05.17.25:136][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.17.25:136][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.17.25:136][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.17.25:136][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.17.25:136][965]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.17.25:136][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.17.25:136][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.17.25:136][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.17.25:137][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.17.25:137][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.17.25:137][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.17.25:138][965]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.17.25:169][965]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.17.25:169][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.17.25:170][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.17.25:170][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.17.25:170][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.01.15-05.17.25:170][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.01.15-05.17.25:172][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.01.15-05.17.25:172][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.01.15-05.17.25:172][965]LogInit: FAudioDevice initialized with ID 37.
+[2024.01.15-05.17.25:172][965]LogAudio: Display: Audio Device (ID: 37) registered with world 'Level_HOC_world'.
+[2024.01.15-05.17.25:172][965]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.01.15-05.17.25:175][965]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.17.25:222][965]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.17.25
+[2024.01.15-05.17.26:794][965]LogWorld: Bringing up level for play took: 1.618149
+[2024.01.15-05.17.26:796][965]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.01.15-05.17.26:801][965]PIE: Server logged in
+[2024.01.15-05.17.26:801][965]PIE: Play in editor total start time 1.78 seconds.
+[2024.01.15-05.17.40:852][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.17.40:852][372]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.17.40:853][372]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.17.40:857][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.17.40:861][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.17.40:869][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.17.40:884][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-05.17.40:888][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.01.15-05.17.40:888][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.01.15-05.17.40:889][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.01.15-05.17.40:905][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.17.40:913][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.15-05.17.40:996][373]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.01.15-05.18.11:844][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.18.11:850][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.18.11:850][489]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:18:11 p.m.)
+[2024.01.15-05.18.11:851][489]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.18.11:918][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067639s)
+[2024.01.15-05.18.11:918][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.067673s)
+[2024.01.15-05.18.11:931][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.15-05.18.11:933][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.18.11:933][489]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.18.11:933][489]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.18.11:965][489]LogPlayLevel: PIE: World Init took: (0.031264s)
+[2024.01.15-05.18.11:965][489]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.01.15-05.18.11:965][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.18.11:965][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.18.11:965][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.18.11:965][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.18.11:965][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.18.11:965][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.18.11:965][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.18.11:965][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.18.11:965][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.18.11:965][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.18.11:965][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.18.11:968][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.18.12:001][489]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.18.12:001][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.18.12:001][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.18.12:001][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.18.12:001][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.01.15-05.18.12:001][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.01.15-05.18.12:003][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.01.15-05.18.12:003][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.01.15-05.18.12:003][489]LogInit: FAudioDevice initialized with ID 38.
+[2024.01.15-05.18.12:003][489]LogAudio: Display: Audio Device (ID: 38) registered with world 'Level_HOC_world'.
+[2024.01.15-05.18.12:003][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.01.15-05.18.12:008][489]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.18.12:055][489]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.18.12
+[2024.01.15-05.18.13:631][489]LogWorld: Bringing up level for play took: 1.623484
+[2024.01.15-05.18.13:633][489]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2024.01.15-05.18.13:638][489]PIE: Server logged in
+[2024.01.15-05.18.13:639][489]PIE: Play in editor total start time 1.79 seconds.
+[2024.01.15-05.18.15:511][648]LogDerivedDataCache: C:/Users/Russ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.162 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2619 files in 4055 folders with total size 177 MiB.
+[2024.01.15-05.18.17:001][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.18.17:001][794]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.18.17:003][794]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.18.17:008][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.18.17:011][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.18.17:018][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.18.17:030][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.18.17:035][794]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.01.15-05.18.17:035][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.01.15-05.18.17:037][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.01.15-05.18.17:056][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.15-05.18.17:136][795]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2024.01.15-05.18.23:132][291]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.18.23:139][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.18.23:139][291]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:18:23 p.m.)
+[2024.01.15-05.18.23:180][291]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.18.23:246][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066607s)
+[2024.01.15-05.18.23:246][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.066649s)
+[2024.01.15-05.18.23:260][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.15-05.18.23:261][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.18.23:261][291]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.18.23:262][291]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.18.23:289][291]LogPlayLevel: PIE: World Init took: (0.028041s)
+[2024.01.15-05.18.23:289][291]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.01.15-05.18.23:289][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.18.23:289][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.18.23:289][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.18.23:289][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.18.23:289][291]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.18.23:289][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.18.23:289][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.18.23:289][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.18.23:290][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.18.23:290][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.18.23:290][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.18.23:291][291]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.18.23:323][291]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.18.23:324][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.18.23:324][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.18.23:324][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.18.23:324][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.01.15-05.18.23:324][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.01.15-05.18.23:326][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.01.15-05.18.23:326][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.01.15-05.18.23:326][291]LogInit: FAudioDevice initialized with ID 39.
+[2024.01.15-05.18.23:326][291]LogAudio: Display: Audio Device (ID: 39) registered with world 'Level_HOC_world'.
+[2024.01.15-05.18.23:326][291]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.01.15-05.18.23:331][291]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.18.23:378][291]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.18.23
+[2024.01.15-05.18.24:940][291]LogWorld: Bringing up level for play took: 1.609423
+[2024.01.15-05.18.24:942][291]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2024.01.15-05.18.24:947][291]PIE: Server logged in
+[2024.01.15-05.18.24:947][291]PIE: Play in editor total start time 1.809 seconds.
+[2024.01.15-05.18.38:472][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.18.38:472][667]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.18.38:474][667]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.18.38:478][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.18.38:481][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.18.38:488][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.18.38:502][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.18.38:507][667]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.01.15-05.18.38:507][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.01.15-05.18.38:508][667]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.01.15-05.18.38:527][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.15-05.18.38:604][668]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.01.15-05.18.47:043][383]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.18.47:043][383]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.18.47:046][383]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_16
+[2024.01.15-05.18.47:048][383]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_16
+[2024.01.15-05.18.47:671][415]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.18.47:671][415]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.18.47:675][415]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_17
+[2024.01.15-05.18.47:678][415]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_17
+[2024.01.15-05.18.53:238][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.15-05.18.53:242][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-05.18.53:310][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.15-05.18.53:519][854]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/Level_HOC_world
+[2024.01.15-05.18.53:519][854]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/Level_HOC_world161D3CC74C52B87590743AB35C5B07EA.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2024.01.15-05.18.53:527][854]LogFileHelpers: All files are already saved.
+[2024.01.15-05.18.53:527][854]LogFileHelpers: Saving map 'Level_HOC_world' took 0.243
+[2024.01.15-05.18.53:536][854]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Sequences/S_movingPlatforms
+[2024.01.15-05.18.53:537][854]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/S_movingPlatforms75A9C18A4D9E0143D3139EB28960E20E.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Sequences/S_movingPlatforms.uasset'
+[2024.01.15-05.18.53:544][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 3.78 sec)
+[2024.01.15-05.18.53:550][854]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.15-05.18.53:551][854]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2024.01.15-05.18.53:551][854]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Hour_of_Code/Sequences/S_movingPlatforms.S_movingPlatforms
