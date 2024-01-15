@@ -5055,3 +5055,394 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.01.15-04.57.02:317][693]LogSlate: Window 'BP_HourOfCode_Character' being destroyed
 [2024.01.15-04.57.02:319][693]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
 [2024.01.15-04.57.02:319][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.58.46:391][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.58.46:391][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.58.46:394][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_6
+[2024.01.15-04.58.46:396][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_6
+[2024.01.15-04.58.47:080][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.58.47:080][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.58.47:084][281]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_7
+[2024.01.15-04.58.47:087][281]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_7
+[2024.01.15-04.58.50:467][556]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.58.50:467][556]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.58.50:468][556]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_2
+[2024.01.15-04.58.50:471][556]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_2
+[2024.01.15-04.58.50:776][572]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.58.50:776][572]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.58.50:779][572]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_3
+[2024.01.15-04.58.50:782][572]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_3
+[2024.01.15-04.58.57:646][121]Cmd: DELETE
+[2024.01.15-04.58.57:648][121]Cmd: ACTOR DELETE
+[2024.01.15-04.58.57:666][121]LogEditorActor: Deleted Actor: BP_coin_C
+[2024.01.15-04.58.57:685][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.15-04.58.57:689][121]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2024.01.15-04.58.58:349][167]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.58.58:349][167]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.58.58:351][167]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_4
+[2024.01.15-04.58.58:354][167]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_4
+[2024.01.15-04.58.59:273][223]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.58.59:273][223]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.58.59:276][223]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_5
+[2024.01.15-04.58.59:279][223]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_5
+[2024.01.15-04.59.13:614][343]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.59.13:614][343]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.59.13:617][343]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_6
+[2024.01.15-04.59.13:619][343]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_6
+[2024.01.15-04.59.14:254][374]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.59.14:254][374]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.59.14:258][374]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_7
+[2024.01.15-04.59.14:261][374]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_7
+[2024.01.15-04.59.22:641][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.22:641][ 52]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.22:644][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_8
+[2024.01.15-04.59.22:646][ 52]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_8
+[2024.01.15-04.59.23:968][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.23:968][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.23:971][128]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_9
+[2024.01.15-04.59.23:974][128]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_9
+[2024.01.15-04.59.30:853][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.30:853][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.30:856][671]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_10
+[2024.01.15-04.59.30:858][671]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_10
+[2024.01.15-04.59.31:922][729]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.31:922][729]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.31:926][729]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_11
+[2024.01.15-04.59.31:928][729]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_11
+[2024.01.15-04.59.33:718][886]Cmd: DELETE
+[2024.01.15-04.59.33:718][886]Cmd: ACTOR DELETE
+[2024.01.15-04.59.33:733][886]LogEditorActor: Deleted Actor: BP_jumpBoost_C
+[2024.01.15-04.59.33:759][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.15-04.59.33:762][886]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2024.01.15-04.59.34:820][963]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-04.59.34:820][963]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-04.59.34:823][963]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_46
+[2024.01.15-04.59.34:825][963]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_46
+[2024.01.15-04.59.35:849][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-04.59.35:849][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-04.59.35:853][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_47
+[2024.01.15-04.59.35:855][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_47
+[2024.01.15-04.59.44:228][694]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.59.44:228][694]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.59.44:231][694]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_8
+[2024.01.15-04.59.44:233][694]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_8
+[2024.01.15-04.59.44:949][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.59.44:949][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.59.44:952][727]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_9
+[2024.01.15-04.59.44:955][727]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_9
+[2024.01.15-04.59.49:463][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.49:463][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.49:466][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_12
+[2024.01.15-04.59.49:468][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_12
+[2024.01.15-04.59.50:024][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.50:024][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.59.50:028][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_13
+[2024.01.15-04.59.50:030][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_13
+[2024.01.15-05.00.19:355][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.00.19:355][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.00.19:358][645]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_10
+[2024.01.15-05.00.19:361][645]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_10
+[2024.01.15-05.00.21:015][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.00.21:015][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.00.21:019][720]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_11
+[2024.01.15-05.00.21:022][720]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_11
+[2024.01.15-05.00.31:327][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.00.31:327][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.00.31:329][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_12
+[2024.01.15-05.00.31:332][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_12
+[2024.01.15-05.00.32:279][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.00.32:279][580]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.00.32:283][580]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_13
+[2024.01.15-05.00.32:286][580]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_13
+[2024.01.15-05.00.47:762][885]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.00.47:762][885]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.00.47:765][885]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_48
+[2024.01.15-05.00.47:767][885]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_48
+[2024.01.15-05.00.48:260][906]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.00.48:260][906]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.00.48:264][906]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_49
+[2024.01.15-05.00.48:266][906]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_49
+[2024.01.15-05.00.51:761][168]Cmd: DELETE
+[2024.01.15-05.00.51:761][168]Cmd: ACTOR DELETE
+[2024.01.15-05.00.51:775][168]LogEditorActor: Deleted Actor: BP_jumpBoost_C
+[2024.01.15-05.00.51:808][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.15-05.00.51:810][168]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.01.15-05.00.52:916][280]Cmd: DELETE
+[2024.01.15-05.00.52:916][280]Cmd: ACTOR DELETE
+[2024.01.15-05.00.52:928][280]LogEditorActor: Deleted Actor: BP_key_C
+[2024.01.15-05.00.52:942][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.15-05.00.52:944][280]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.01.15-05.01.14:807][656]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.01.14:807][656]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.01.14:810][656]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_50
+[2024.01.15-05.01.14:812][656]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_50
+[2024.01.15-05.01.15:400][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.01.15:400][698]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.01.15:404][698]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_51
+[2024.01.15-05.01.15:406][698]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_51
+[2024.01.15-05.01.23:158][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.01.23:158][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.01.23:161][358]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_52
+[2024.01.15-05.01.23:164][358]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_52
+[2024.01.15-05.01.23:780][385]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.01.23:780][385]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.01.23:784][385]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_53
+[2024.01.15-05.01.23:786][385]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_53
+[2024.01.15-05.01.58:055][186]Cmd: TRANSACTION UNDO
+[2024.01.15-05.01.58:055][186]LogEditorTransaction: Undo Move Elements
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: ================================================
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Total job queries 6,310, among them cache hits 28 (0.44%)
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Tracking 6,273 distinct input hashes that result in 4,623 distinct outputs (73.70%)
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: RAM used: 87.17 MiB of 1.60 GiB budget. Usage: 5.32%
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Shaders Compiled: 6,273
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Jobs assigned 6,278, completed 6,273 (99.92%)
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Average time worker was idle: 110.02 s
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Time job spent in pending queue: average 74.07 s, longest 152.18 s
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Job execution time: average 2.47 s, max 23.56 s
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Job life time (pending + execution): average 76.59 s, max 157.72
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Shader code size: average 28.107 KiB, min 2.078 KiB, max 159.879 KiB
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 194.50 s
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Jobs were issued in 742 batches (only local compilation was used), average 8.46 jobs/batch
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Average processing rate: 32.25 jobs/sec
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Total thread time: 1,625.749 s
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Total thread preprocess time: 116.382 s
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Percentage time preprocessing: 7.16%
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Effective parallelization: 8.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.15-05.02.42:964][506]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.57 sec, max 7.52 sec, min 1.59 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.11 sec, max 4.84 sec, min 2.77 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 4.01 sec, max 7.34 sec, min 0.66 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    7 times, average 2.66 sec, max 6.55 sec, min 0.60 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.51% of total time (compiled  134 times, average 1.28 sec, max 2.50 sec, min 1.03 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 4.78% of total time (compiled  384 times, average 0.20 sec, max 0.61 sec, min 0.10 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.28% of total time (compiled   96 times, average 0.73 sec, max 1.15 sec, min 0.47 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.94% of total time (compiled   96 times, average 0.67 sec, max 1.41 sec, min 0.17 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.89% of total time (compiled   53 times, average 1.19 sec, max 10.83 sec, min 0.20 sec)
+[2024.01.15-05.02.42:965][506]LogShaderCompilers: Display: ================================================
+[2024.01.15-05.03.35:065][830]Cmd: TRANSACTION UNDO
+[2024.01.15-05.03.35:065][830]LogEditorTransaction: Undo Move Elements
+[2024.01.15-05.04.10:334][615]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.10:334][615]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.10:337][615]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_54
+[2024.01.15-05.04.10:339][615]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_54
+[2024.01.15-05.04.10:969][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.10:969][643]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.10:973][643]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_55
+[2024.01.15-05.04.10:976][643]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_55
+[2024.01.15-05.04.13:062][790]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.04.13:062][790]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.04.13:064][790]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_14
+[2024.01.15-05.04.13:067][790]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_14
+[2024.01.15-05.04.14:743][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.04.14:743][872]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.04.14:747][872]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_15
+[2024.01.15-05.04.14:749][872]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_15
+[2024.01.15-05.04.18:293][136]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.18:293][136]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.18:295][136]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_56
+[2024.01.15-05.04.18:297][136]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_56
+[2024.01.15-05.04.19:081][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.19:081][164]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.19:084][164]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_57
+[2024.01.15-05.04.19:086][164]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_57
+[2024.01.15-05.04.25:527][715]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.04.25:527][715]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.04.25:529][715]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_14
+[2024.01.15-05.04.25:532][715]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_14
+[2024.01.15-05.04.26:227][745]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.04.26:227][745]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-05.04.26:231][745]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_15
+[2024.01.15-05.04.26:234][745]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_15
+[2024.01.15-05.04.34:860][418]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.04.34:860][418]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.04.34:863][418]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_16
+[2024.01.15-05.04.34:866][418]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_16
+[2024.01.15-05.04.35:343][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.04.35:343][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-05.04.35:347][442]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_17
+[2024.01.15-05.04.35:350][442]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_17
+[2024.01.15-05.04.48:335][524]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.48:335][524]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.48:337][524]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_58
+[2024.01.15-05.04.48:340][524]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_58
+[2024.01.15-05.04.49:336][567]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.49:336][567]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin_C
+[2024.01.15-05.04.49:340][567]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_59
+[2024.01.15-05.04.49:343][567]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin as actor: BP_coin_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_coin_C_59
+[2024.01.15-05.04.52:347][799]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-05.04.52:355][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-05.04.52:355][799]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 5:04:52 p.m.)
+[2024.01.15-05.04.52:378][799]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.04.52:445][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065983s)
+[2024.01.15-05.04.52:445][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.066025s)
+[2024.01.15-05.04.52:480][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.15-05.04.52:482][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.04.52:482][799]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-05.04.52:483][799]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-05.04.52:505][799]LogPlayLevel: PIE: World Init took: (0.022011s)
+[2024.01.15-05.04.52:505][799]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.01.15-05.04.52:505][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-05.04.52:505][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-05.04.52:505][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-05.04.52:505][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-05.04.52:505][799]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-05.04.52:505][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-05.04.52:505][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-05.04.52:505][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-05.04.52:506][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-05.04.52:506][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-05.04.52:506][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-05.04.52:508][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-05.04.52:540][799]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-05.04.52:540][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-05.04.52:541][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-05.04.52:541][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-05.04.52:541][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.01.15-05.04.52:541][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.01.15-05.04.52:543][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.01.15-05.04.52:543][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.01.15-05.04.52:543][799]LogInit: FAudioDevice initialized with ID 33.
+[2024.01.15-05.04.52:543][799]LogAudio: Display: Audio Device (ID: 33) registered with world 'Level_HOC_world'.
+[2024.01.15-05.04.52:543][799]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.01.15-05.04.52:546][799]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-05.04.52:592][799]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-23.04.52
+[2024.01.15-05.04.54:159][799]LogWorld: Bringing up level for play took: 1.612978
+[2024.01.15-05.04.54:161][799]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.01.15-05.04.54:165][799]PIE: Server logged in
+[2024.01.15-05.04.54:166][799]PIE: Play in editor total start time 1.813 seconds.
+[2024.01.15-05.05.43:891][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.05.43:891][102]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-05.05.43:892][102]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-05.05.43:897][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.05.43:899][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-05.05.43:906][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-05.05.43:923][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-05.05.43:923][102]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.01.15-05.05.43:923][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.01.15-05.05.43:925][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.01.15-05.05.43:940][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-05.05.43:954][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.15-05.05.44:014][103]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: ================================================
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Total job queries 6,316, among them cache hits 32 (0.51%)
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Tracking 6,279 distinct input hashes that result in 4,628 distinct outputs (73.71%)
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: RAM used: 87.31 MiB of 1.60 GiB budget. Usage: 5.33%
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Shaders Compiled: 6,279
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Jobs assigned 6,280, completed 6,279 (99.98%)
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Average time worker was idle: 110.23 s
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Time job spent in pending queue: average 74.04 s, longest 152.18 s
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Job execution time: average 2.47 s, max 23.56 s
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Job life time (pending + execution): average 76.52 s, max 157.72
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Shader code size: average 28.119 KiB, min 2.078 KiB, max 159.879 KiB
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 195.22 s
+[2024.01.15-05.05.50:930][679]LogShaderCompilers: Display: Jobs were issued in 744 batches (only local compilation was used), average 8.44 jobs/batch
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display: Average processing rate: 32.16 jobs/sec
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display: Total thread time: 1,627.678 s
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display: Total thread preprocess time: 116.64 s
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display: Percentage time preprocessing: 7.17%
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display: Effective parallelization: 8.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.57 sec, max 7.52 sec, min 1.59 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.11 sec, max 4.84 sec, min 2.77 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 4.01 sec, max 7.34 sec, min 0.66 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    7 times, average 2.66 sec, max 6.55 sec, min 0.60 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.50% of total time (compiled  134 times, average 1.28 sec, max 2.50 sec, min 1.03 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 4.77% of total time (compiled  384 times, average 0.20 sec, max 0.61 sec, min 0.10 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.28% of total time (compiled   96 times, average 0.73 sec, max 1.15 sec, min 0.47 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.94% of total time (compiled   96 times, average 0.67 sec, max 1.41 sec, min 0.17 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.93% of total time (compiled   55 times, average 1.16 sec, max 10.83 sec, min 0.20 sec)
+[2024.01.15-05.05.50:931][679]LogShaderCompilers: Display: ================================================
+[2024.01.15-05.06.06:172][914]Cmd: EDIT COPY
+[2024.01.15-05.06.58:123][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.15-05.06.58:325][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto5
+[2024.01.15-05.06.58:325][426]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/Level_HOC_world_Auto5529972DC43E9418F0091C2B55B60E21D.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto5.umap'
+[2024.01.15-05.06.58:327][426]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto5.umap is in the /Temp path, will not scan.
+[2024.01.15-05.06.58:327][426]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto5 is in the /Temp path, will not scan.
+[2024.01.15-05.06.58:327][426]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Hour_of_Code/Maps/Level_HOC_world_Auto5 is in the /Temp path, will not scan.
+[2024.01.15-05.06.58:327][426]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Hour_of_Code/Maps/Level_HOC_world' took 0.220
+[2024.01.15-05.06.58:327][426]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.220
+[2024.01.15-05.06.58:328][426]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Hour_of_Code/Widgets/W_HUD] ([2] browsable assets)...
+[2024.01.15-05.06.58:331][426]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Hour_of_Code/Widgets/W_HUD.W_HUD]
+[2024.01.15-05.06.58:331][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hour_of_Code/Widgets/W_HUD]
+[2024.01.15-05.06.58:338][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Hour_of_Code/Widgets/W_HUD_Auto5
+[2024.01.15-05.06.58:338][426]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/W_HUD_Auto519BD691349956842C99557955953D800.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/Autosaves/Game/Hour_of_Code/Widgets/W_HUD_Auto5.uasset'
+[2024.01.15-05.06.58:338][426]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.01.15-05.07.23:984][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.15-05.07.23:987][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-05.07.24:053][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.15-05.07.24:255][756]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/Level_HOC_world
+[2024.01.15-05.07.24:256][756]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/Level_HOC_world77A0F568461BCB9EF709A0B7F503E9C3.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2024.01.15-05.07.24:263][756]LogFileHelpers: All files are already saved.
+[2024.01.15-05.07.24:263][756]LogFileHelpers: Saving map 'Level_HOC_world' took 0.236
+[2024.01.15-05.07.24:271][756]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Widgets/W_HUD
+[2024.01.15-05.07.24:271][756]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/W_HUD0F3D15A04948127E7BFC268082A000D7.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Widgets/W_HUD.uasset'
+[2024.01.15-05.07.24:280][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 3.19 sec)
+[2024.01.15-05.07.24:288][756]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.15-05.07.24:288][756]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2024.01.15-05.07.24:288][756]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Hour_of_Code/Widgets/W_HUD.W_HUD
+[2024.01.15-05.07.56:653][963]LogViewport: Scene viewport resized to 1437x844, mode Windowed.
+[2024.01.15-05.07.56:698][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: ================================================
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Total job queries 6,320, among them cache hits 32 (0.51%)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Tracking 6,281 distinct input hashes that result in 4,629 distinct outputs (73.70%)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: RAM used: 87.35 MiB of 1.60 GiB budget. Usage: 5.33%
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Shaders Compiled: 6,281
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Jobs assigned 6,284, completed 6,281 (99.95%)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Average time worker was idle: 111.34 s
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Time job spent in pending queue: average 74.00 s, longest 152.18 s
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Job execution time: average 2.47 s, max 23.56 s
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Job life time (pending + execution): average 76.50 s, max 157.72
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Shader code size: average 28.122 KiB, min 2.078 KiB, max 159.879 KiB
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 195.76 s
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Jobs were issued in 748 batches (only local compilation was used), average 8.40 jobs/batch
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Average processing rate: 32.09 jobs/sec
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Total thread time: 1,628.237 s
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Total thread preprocess time: 116.696 s
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Percentage time preprocessing: 7.17%
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Effective parallelization: 8.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.57 sec, max 7.52 sec, min 1.59 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.11 sec, max 4.84 sec, min 2.77 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 4.01 sec, max 7.34 sec, min 0.66 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    7 times, average 2.66 sec, max 6.55 sec, min 0.60 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.49% of total time (compiled  134 times, average 1.28 sec, max 2.50 sec, min 1.03 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 4.77% of total time (compiled  384 times, average 0.20 sec, max 0.61 sec, min 0.10 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.28% of total time (compiled   96 times, average 0.73 sec, max 1.15 sec, min 0.47 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.93% of total time (compiled   96 times, average 0.67 sec, max 1.41 sec, min 0.17 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.92% of total time (compiled   55 times, average 1.16 sec, max 10.83 sec, min 0.20 sec)
+[2024.01.15-05.09.32:359][452]LogShaderCompilers: Display: ================================================
+[2024.01.15-05.09.43:175][198]Cmd: TRANSACTION UNDO
+[2024.01.15-05.09.43:175][198]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.09.45:851][361]Cmd: TRANSACTION UNDO
+[2024.01.15-05.09.45:851][361]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.09.46:746][398]Cmd: TRANSACTION UNDO
+[2024.01.15-05.09.46:746][398]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.09.49:030][534]Cmd: TRANSACTION UNDO
+[2024.01.15-05.09.49:030][534]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.09.51:552][667]Cmd: TRANSACTION UNDO
+[2024.01.15-05.09.51:552][667]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.09.57:910][129]Cmd: TRANSACTION UNDO
+[2024.01.15-05.09.57:910][129]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.09.58:161][132]Cmd: TRANSACTION UNDO
+[2024.01.15-05.09.58:161][132]LogEditorTransaction: Undo Foliage Editing
+[2024.01.15-05.12.14:802][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.15-05.12.14:807][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-05.12.14:876][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.15-05.12.15:079][ 34]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Maps/Level_HOC_world
+[2024.01.15-05.12.15:080][ 34]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/Level_HOC_world501F93CD4FB2AF670201E1856D02C4FA.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Maps/Level_HOC_world.umap'
+[2024.01.15-05.12.15:087][ 34]LogFileHelpers: All files are already saved.
+[2024.01.15-05.12.15:087][ 34]LogFileHelpers: Saving map 'Level_HOC_world' took 0.238
+[2024.01.15-05.12.15:093][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 3.48 sec)
+[2024.01.15-05.12.15:099][ 34]AssetCheck: New page: Asset Save: Level_HOC_world
+[2024.01.15-05.12.15:099][ 34]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
