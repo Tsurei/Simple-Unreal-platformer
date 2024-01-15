@@ -4671,3 +4671,387 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.01.15-04.49.42:343][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 2.41 sec)
 [2024.01.15-04.49.42:349][357]AssetCheck: New page: Asset Save: Level_HOC_world
 [2024.01.15-04.49.42:350][357]LogContentValidation: Display: Validating /Script/Engine.World /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world
+[2024.01.15-04.50.02:771][423]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.50.02:771][423]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.50.02:774][423]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_4
+[2024.01.15-04.50.02:777][423]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_4
+[2024.01.15-04.50.03:462][445]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.50.03:462][445]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost_C
+[2024.01.15-04.50.03:466][445]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_5
+[2024.01.15-04.50.03:468][445]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost as actor: BP_jumpBoost_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_jumpBoost_C_5
+[2024.01.15-04.50.09:485][950]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hour_of_Code/Widgets/W_HUD.W_HUD
+[2024.01.15-04.50.09:485][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.50.09:485][950]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.50.09:494][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.50.09:494][950]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.50.24:015][825]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.15-04.50.26:015][941]BlueprintLog: New page: Compile W_HUD
+[2024.01.15-04.50.26:055][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.15-04.50.30:366][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-04.50.30:408][184]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Widgets/W_HUD
+[2024.01.15-04.50.30:408][184]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/W_HUDA19732904B94B10731F302803CE1D0C8.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Widgets/W_HUD.uasset'
+[2024.01.15-04.50.30:416][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.46 sec)
+[2024.01.15-04.50.30:417][184]AssetCheck: New page: Asset Save: W_HUD
+[2024.01.15-04.50.30:418][184]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Hour_of_Code/Widgets/W_HUD.W_HUD
+[2024.01.15-04.50.31:123][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-04.50.31:130][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-04.50.31:130][222]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 4:50:31 p.m.)
+[2024.01.15-04.50.31:131][222]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-04.50.31:191][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059922s)
+[2024.01.15-04.50.31:191][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.059962s)
+[2024.01.15-04.50.31:206][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.15-04.50.31:207][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.50.31:207][222]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.50.31:208][222]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-04.50.31:233][222]LogPlayLevel: PIE: World Init took: (0.026197s)
+[2024.01.15-04.50.31:233][222]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.01.15-04.50.31:233][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-04.50.31:233][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-04.50.31:233][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-04.50.31:233][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-04.50.31:233][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-04.50.31:233][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-04.50.31:233][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-04.50.31:233][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-04.50.31:234][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-04.50.31:234][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-04.50.31:234][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-04.50.31:236][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-04.50.31:267][222]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-04.50.31:267][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-04.50.31:267][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-04.50.31:267][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-04.50.31:268][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.01.15-04.50.31:268][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.01.15-04.50.31:269][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.01.15-04.50.31:269][222]LogInit: FAudioDevice initialized with ID 29.
+[2024.01.15-04.50.31:269][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.01.15-04.50.31:269][222]LogAudio: Display: Audio Device (ID: 29) registered with world 'Level_HOC_world'.
+[2024.01.15-04.50.31:270][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.01.15-04.50.31:274][222]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-04.50.31:319][222]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-22.50.31
+[2024.01.15-04.50.32:888][222]LogWorld: Bringing up level for play took: 1.613310
+[2024.01.15-04.50.32:890][222]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.01.15-04.50.32:894][222]PIE: Server logged in
+[2024.01.15-04.50.32:895][222]PIE: Play in editor total start time 1.765 seconds.
+[2024.01.15-04.50.32:941][223]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.068804 > MaxSimulationTimeStep (0.050) for 'BP_HourOfCode_Character_C_0', movement 'Walking'
+[2024.01.15-04.50.33:829][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-04.50.33:829][270]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-04.50.33:830][270]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.50.33:834][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.50.33:837][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-04.50.33:843][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.50.33:865][270]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-04.50.33:866][270]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.01.15-04.50.33:866][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.01.15-04.50.33:867][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.01.15-04.50.33:873][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-04.50.33:881][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.15-04.50.33:935][271]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.01.15-04.50.46:490][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost
+[2024.01.15-04.50.46:491][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.50.46:491][194]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.51.29:602][857]BlueprintLog: New page: Compile BP_jumpBoost
+[2024.01.15-04.51.29:656][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.15-04.51.30:299][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-04.51.30:390][879]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Blueprints/BP_jumpBoost
+[2024.01.15-04.51.30:391][879]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/BP_jumpBoostE07333F3438998F87241DBA904D9B6FB.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/BP_jumpBoost.uasset'
+[2024.01.15-04.51.30:397][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.56 sec)
+[2024.01.15-04.51.30:399][879]AssetCheck: New page: Asset Save: BP_jumpBoost
+[2024.01.15-04.51.30:399][879]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hour_of_Code/Blueprints/BP_jumpBoost.BP_jumpBoost
+[2024.01.15-04.51.31:441][936]LogSlate: Window 'BP_jumpBoost' being destroyed
+[2024.01.15-04.51.31:446][936]LogSlate: Window 'BP_jumpBoost' being destroyed
+[2024.01.15-04.51.31:457][936]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.51.31:457][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.51.31:463][936]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.51.31:463][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.51.31:490][936]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.51.31:490][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.51.32:582][ 29]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-04.51.32:588][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-04.51.32:588][ 29]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 4:51:32 p.m.)
+[2024.01.15-04.51.32:589][ 29]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-04.51.32:648][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059921s)
+[2024.01.15-04.51.32:648][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.059952s)
+[2024.01.15-04.51.32:665][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.15-04.51.32:667][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.51.32:667][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.51.32:667][ 29]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-04.51.32:688][ 29]LogPlayLevel: PIE: World Init took: (0.021874s)
+[2024.01.15-04.51.32:689][ 29]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.01.15-04.51.32:689][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-04.51.32:689][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-04.51.32:689][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-04.51.32:689][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-04.51.32:689][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-04.51.32:689][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-04.51.32:689][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-04.51.32:689][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-04.51.32:689][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-04.51.32:689][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-04.51.32:689][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-04.51.32:691][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-04.51.32:722][ 29]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-04.51.32:722][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-04.51.32:722][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-04.51.32:722][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-04.51.32:723][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.01.15-04.51.32:723][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.01.15-04.51.32:725][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.01.15-04.51.32:725][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.01.15-04.51.32:725][ 29]LogInit: FAudioDevice initialized with ID 30.
+[2024.01.15-04.51.32:725][ 29]LogAudio: Display: Audio Device (ID: 30) registered with world 'Level_HOC_world'.
+[2024.01.15-04.51.32:725][ 29]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.01.15-04.51.32:729][ 29]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-04.51.32:772][ 29]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-22.51.32
+[2024.01.15-04.51.34:367][ 29]LogWorld: Bringing up level for play took: 1.638073
+[2024.01.15-04.51.34:368][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.01.15-04.51.34:373][ 29]PIE: Server logged in
+[2024.01.15-04.51.34:374][ 29]PIE: Play in editor total start time 1.787 seconds.
+[2024.01.15-04.51.34:413][ 30]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059416 > MaxSimulationTimeStep (0.050) for 'BP_HourOfCode_Character_C_0', movement 'Walking'
+[2024.01.15-04.51.48:060][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-04.51.48:060][431]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-04.51.48:061][431]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.51.48:066][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.51.48:069][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-04.51.48:075][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.51.48:092][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-04.51.48:093][431]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.01.15-04.51.48:093][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.01.15-04.51.48:094][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.01.15-04.51.48:110][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-04.51.48:118][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.15-04.51.48:180][432]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.01.15-04.51.58:721][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: ================================================
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Total job queries 6,300, among them cache hits 28 (0.44%)
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Tracking 6,265 distinct input hashes that result in 4,620 distinct outputs (73.74%)
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: RAM used: 87.03 MiB of 1.60 GiB budget. Usage: 5.31%
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Shaders Compiled: 6,265
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Jobs assigned 6,268, completed 6,265 (99.95%)
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Average time worker was idle: 70.93 s
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Time job spent in pending queue: average 74.19 s, longest 152.18 s
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Job execution time: average 2.47 s, max 23.56 s
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Job life time (pending + execution): average 76.69 s, max 157.72
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Shader code size: average 28.104 KiB, min 2.078 KiB, max 159.879 KiB
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 193.58 s
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Jobs were issued in 732 batches (only local compilation was used), average 8.56 jobs/batch
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Average processing rate: 32.36 jobs/sec
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Total thread time: 1,623.977 s
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Total thread preprocess time: 116.188 s
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Percentage time preprocessing: 7.15%
+[2024.01.15-04.51.59:110][348]LogShaderCompilers: Display: Effective parallelization: 8.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.57 sec, max 7.52 sec, min 1.59 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.11 sec, max 4.84 sec, min 2.77 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   12 times, average 4.01 sec, max 7.34 sec, min 0.66 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    7 times, average 2.66 sec, max 6.55 sec, min 0.60 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.52% of total time (compiled  134 times, average 1.28 sec, max 2.50 sec, min 1.03 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 4.78% of total time (compiled  384 times, average 0.20 sec, max 0.61 sec, min 0.10 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.29% of total time (compiled   96 times, average 0.73 sec, max 1.15 sec, min 0.47 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.94% of total time (compiled   96 times, average 0.67 sec, max 1.41 sec, min 0.17 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.87% of total time (compiled   51 times, average 1.23 sec, max 10.83 sec, min 0.20 sec)
+[2024.01.15-04.51.59:114][348]LogShaderCompilers: Display: ================================================
+[2024.01.15-04.52.00:284][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.BP_HourOfCode_Character
+[2024.01.15-04.52.00:285][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.52.00:285][422]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.52.01:358][438]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.52.28:218][961]BlueprintLog: New page: Compile BP_HourOfCode_Character
+[2024.01.15-04.52.28:325][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.15-04.52.29:633][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-04.52.29:670][ 15]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.52.29:753][ 15]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character
+[2024.01.15-04.52.29:754][ 15]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/BP_HourOfCode_Character5229E7AC4EFB7FBFFA9EA0A80562DC76.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.uasset'
+[2024.01.15-04.52.29:769][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 2.70 sec)
+[2024.01.15-04.52.29:771][ 15]AssetCheck: New page: Asset Save: BP_HourOfCode_Character
+[2024.01.15-04.52.29:772][ 15]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.BP_HourOfCode_Character
+[2024.01.15-04.52.31:627][122]LogSlate: Window 'BP_HourOfCode_Character' being destroyed
+[2024.01.15-04.52.31:634][122]LogSlate: Window 'BP_HourOfCode_Character' being destroyed
+[2024.01.15-04.52.31:636][122]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.52.31:636][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.52.32:992][233]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-04.52.33:000][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-04.52.33:000][233]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 4:52:33 p.m.)
+[2024.01.15-04.52.33:027][233]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-04.52.33:089][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060696s)
+[2024.01.15-04.52.33:089][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.060734s)
+[2024.01.15-04.52.33:105][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.15-04.52.33:108][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.52.33:108][233]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.52.33:108][233]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-04.52.33:128][233]LogPlayLevel: PIE: World Init took: (0.021469s)
+[2024.01.15-04.52.33:128][233]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.01.15-04.52.33:128][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-04.52.33:128][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-04.52.33:128][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-04.52.33:129][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-04.52.33:129][233]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-04.52.33:129][233]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-04.52.33:129][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-04.52.33:129][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-04.52.33:129][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-04.52.33:129][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-04.52.33:129][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-04.52.33:132][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-04.52.33:164][233]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-04.52.33:164][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-04.52.33:164][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-04.52.33:164][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-04.52.33:165][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.01.15-04.52.33:165][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.01.15-04.52.33:167][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.01.15-04.52.33:167][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.01.15-04.52.33:167][233]LogInit: FAudioDevice initialized with ID 31.
+[2024.01.15-04.52.33:167][233]LogAudio: Display: Audio Device (ID: 31) registered with world 'Level_HOC_world'.
+[2024.01.15-04.52.33:167][233]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.15-04.52.33:170][233]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-04.52.33:215][233]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-22.52.33
+[2024.01.15-04.52.34:790][233]LogWorld: Bringing up level for play took: 1.620320
+[2024.01.15-04.52.34:792][233]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.01.15-04.52.34:796][233]PIE: Server logged in
+[2024.01.15-04.52.34:797][233]PIE: Play in editor total start time 1.799 seconds.
+[2024.01.15-04.53.16:019][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-04.53.16:019][523]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-04.53.16:020][523]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.53.16:025][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.53.16:029][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-04.53.16:035][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.53.16:053][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-04.53.16:054][523]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.15-04.53.16:054][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.15-04.53.16:055][523]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.15-04.53.16:076][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-04.53.16:085][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.15-04.53.16:141][524]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.01.15-04.53.23:771][243]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hour_of_Code/Widgets/W_HUD.W_HUD
+[2024.01.15-04.53.23:771][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.53.23:771][243]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.53.23:780][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.53.23:780][243]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.53.32:463][749]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.15-04.53.37:825][ 52]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.15-04.53.46:564][585]BlueprintLog: New page: Compile W_HUD
+[2024.01.15-04.53.46:602][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.15-04.53.54:107][ 22]LogSlate: Window 'W_HUD' being destroyed
+[2024.01.15-04.53.54:113][ 22]LogSlate: Window 'W_HUD' being destroyed
+[2024.01.15-04.53.54:124][ 22]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.53.54:124][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.53.54:129][ 22]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.53.54:129][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.54.01:799][612]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin
+[2024.01.15-04.54.01:800][612]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.54.01:800][612]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.54.12:006][220]BlueprintLog: New page: Compile BP_coin
+[2024.01.15-04.54.12:100][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.15-04.54.13:100][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-04.54.13:185][270]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Blueprints/BP_coin
+[2024.01.15-04.54.13:185][270]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/BP_coin1A487E9E4D9F38F6B3FDCD874133FD73.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/BP_coin.uasset'
+[2024.01.15-04.54.13:194][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.79 sec)
+[2024.01.15-04.54.13:195][270]AssetCheck: New page: Asset Save: BP_coin
+[2024.01.15-04.54.13:196][270]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hour_of_Code/Blueprints/BP_coin.BP_coin
+[2024.01.15-04.54.17:250][523]LogSlate: Window 'BP_coin' being destroyed
+[2024.01.15-04.54.17:256][523]LogSlate: Window 'BP_coin' being destroyed
+[2024.01.15-04.54.17:259][523]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.54.17:259][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.54.19:245][661]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem
+[2024.01.15-04.54.19:245][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.54.19:245][661]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.54.23:375][904]LogSlate: Window 'BP_gem' being destroyed
+[2024.01.15-04.54.23:381][904]LogSlate: Window 'BP_gem' being destroyed
+[2024.01.15-04.54.23:384][904]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.54.23:384][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.54.24:873][ 16]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.54.24:873][ 16]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.54.24:875][ 16]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_0
+[2024.01.15-04.54.24:878][ 16]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_0
+[2024.01.15-04.54.25:579][ 53]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.54.25:579][ 53]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem_C
+[2024.01.15-04.54.25:583][ 53]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_1
+[2024.01.15-04.54.25:586][ 53]LogActorFactory: Actor Factory spawned Blueprint /Game/Hour_of_Code/Blueprints/BP_gem.BP_gem as actor: BP_gem_C /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world:PersistentLevel.BP_gem_C_1
+[2024.01.15-04.54.30:148][430]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.15-04.54.30:155][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-04.54.30:155][430]PIE: New page: PIE session: Level_HOC_world (Jan. 14, 2024, 4:54:30 p.m.)
+[2024.01.15-04.54.30:155][430]LogPlayLevel: Creating play world package: /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-04.54.30:218][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062316s)
+[2024.01.15-04.54.30:218][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Hour_of_Code/Maps/Level_HOC_world.Level_HOC_world to /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world (0.062351s)
+[2024.01.15-04.54.30:239][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.15-04.54.30:241][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.54.30:241][430]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.54.30:242][430]LogAIModule: Creating AISystem for world Level_HOC_world
+[2024.01.15-04.54.30:269][430]LogPlayLevel: PIE: World Init took: (0.027944s)
+[2024.01.15-04.54.30:269][430]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.01.15-04.54.30:269][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-04.54.30:269][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-04.54.30:269][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-04.54.30:269][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-04.54.30:269][430]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.15-04.54.30:269][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-04.54.30:269][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.15-04.54.30:269][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-04.54.30:270][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-04.54.30:270][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-04.54.30:270][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-04.54.30:272][430]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.15-04.54.30:303][430]LogAudioMixer: Display: Using Audio Hardware Device Headphones (ROG Delta GUNDAM LTD)
+[2024.01.15-04.54.30:303][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-04.54.30:303][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-04.54.30:303][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-04.54.30:303][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.01.15-04.54.30:303][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.01.15-04.54.30:305][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.01.15-04.54.30:305][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.01.15-04.54.30:305][430]LogInit: FAudioDevice initialized with ID 32.
+[2024.01.15-04.54.30:305][430]LogAudio: Display: Audio Device (ID: 32) registered with world 'Level_HOC_world'.
+[2024.01.15-04.54.30:305][430]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.01.15-04.54.30:313][430]LogLoad: Game class is 'BP_HourOfCode_Game_C'
+[2024.01.15-04.54.30:357][430]LogWorld: Bringing World /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world.Level_HOC_world up for play (max tick rate 0) at 2024.01.14-22.54.30
+[2024.01.15-04.54.31:931][430]LogWorld: Bringing up level for play took: 1.617934
+[2024.01.15-04.54.31:933][430]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.01.15-04.54.31:937][430]PIE: Server logged in
+[2024.01.15-04.54.31:938][430]PIE: Play in editor total start time 1.784 seconds.
+[2024.01.15-04.54.31:979][431]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.057412 > MaxSimulationTimeStep (0.050) for 'BP_HourOfCode_Character_C_0', movement 'Walking'
+[2024.01.15-04.54.37:370][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-04.54.37:370][969]LogWorld: BeginTearingDown for /Game/Hour_of_Code/Maps/UEDPIE_0_Level_HOC_world
+[2024.01.15-04.54.37:371][969]LogWorld: UWorld::CleanupWorld for Level_HOC_world, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.54.37:376][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.54.37:379][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.15-04.54.37:385][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.54.37:403][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-04.54.37:404][969]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.01.15-04.54.37:405][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.01.15-04.54.37:406][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.01.15-04.54.37:425][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-04.54.37:433][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.15-04.54.37:491][970]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.01.15-04.54.44:811][578]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Hour_of_Code/Widgets/W_gameCompletion.W_gameCompletion
+[2024.01.15-04.54.44:812][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.54.44:812][578]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.54.44:822][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.54.44:822][578]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.56.25:915][ 15]BlueprintLog: New page: Compile W_gameCompletion
+[2024.01.15-04.56.25:949][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.15-04.56.27:063][ 78]LogSlate: Window 'W_gameCompletion' being destroyed
+[2024.01.15-04.56.27:069][ 78]LogSlate: Window 'W_gameCompletion' being destroyed
+[2024.01.15-04.56.27:076][ 78]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.56.27:076][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.56.27:082][ 78]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.56.27:082][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-04.56.45:464][780]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.BP_HourOfCode_Character
+[2024.01.15-04.56.45:464][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-04.56.45:465][780]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.01.15-04.56.59:638][570]BlueprintLog: New page: Compile BP_HourOfCode_Character
+[2024.01.15-04.56.59:746][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.15-04.57.01:146][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-04.57.01:246][632]LogSavePackage: Moving output files for package: /Game/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character
+[2024.01.15-04.57.01:246][632]LogSavePackage: Moving '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Saved/BP_HourOfCode_CharacterCD5233FF4F827A99B7F121B48B724AFE.tmp' to '../../../../../Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.uasset'
+[2024.01.15-04.57.01:256][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.90 sec)
+[2024.01.15-04.57.01:257][632]AssetCheck: New page: Asset Save: BP_HourOfCode_Character
+[2024.01.15-04.57.01:258][632]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.BP_HourOfCode_Character
+[2024.01.15-04.57.02:310][693]LogSlate: Window 'BP_HourOfCode_Character' being destroyed
+[2024.01.15-04.57.02:317][693]LogSlate: Window 'BP_HourOfCode_Character' being destroyed
+[2024.01.15-04.57.02:319][693]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-04.57.02:319][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

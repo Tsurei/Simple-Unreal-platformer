@@ -9,7 +9,10 @@
 				"G:/Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Sequences/S_movingPlatforms.uasset",
 				"G:/Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/BP_Door.uasset",
 				"G:/Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/BP_key.uasset",
-				"G:/Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Widgets/W_HUD.uasset"
+				"G:/Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Widgets/W_HUD.uasset",
+				"G:/Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/BP_jumpBoost.uasset",
+				"G:/Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.uasset",
+				"G:/Game Development/Unreal/SimpleUnrealPlatformer/Simple-Unreal-platformer/A01/IntroToUnreal/Content/Hour_of_Code/Blueprints/BP_coin.uasset"
 			]
 		}
 	]
